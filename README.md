@@ -7,6 +7,13 @@ A small React app that lets users:
 
 The UI is built with a lightweight atomic structure (`atoms`, `molecules`, `organisms`) and a small service layer for API access.
 
+## Live url
+https://jpdhinesh.github.io/incubyte_assessment/
+
+## Screenshots
+src/screenshots
+
+
 ## Tech Stack
 - React 19
 - React Router v6
@@ -50,7 +57,7 @@ src/
     atoms/              # Small reusable UI pieces
     molecules/          # Composed UI units (e.g., card)
     organisms/          # Feature-level sections
-    __tests__/          # Component tests by layer
+    tests/              # Component tests by layer
   test-utils/           # Router/mock helpers and fixtures
 ```
 

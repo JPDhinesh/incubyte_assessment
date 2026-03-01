@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/incubyte_assessment/static/css/main.021e344a.css",
+    "main.js": "/incubyte_assessment/static/js/main.eb904981.js",
+    "static/js/877.d38d69b6.chunk.js": "/incubyte_assessment/static/js/877.d38d69b6.chunk.js",
+    "static/js/223.b2a892ae.chunk.js": "/incubyte_assessment/static/js/223.b2a892ae.chunk.js",
+    "static/js/453.040438c0.chunk.js": "/incubyte_assessment/static/js/453.040438c0.chunk.js",
+    "index.html": "/incubyte_assessment/index.html",
+    "main.021e344a.css.map": "/incubyte_assessment/static/css/main.021e344a.css.map",
+    "main.eb904981.js.map": "/incubyte_assessment/static/js/main.eb904981.js.map",
+    "877.d38d69b6.chunk.js.map": "/incubyte_assessment/static/js/877.d38d69b6.chunk.js.map",
+    "223.b2a892ae.chunk.js.map": "/incubyte_assessment/static/js/223.b2a892ae.chunk.js.map",
+    "453.040438c0.chunk.js.map": "/incubyte_assessment/static/js/453.040438c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021e344a.css",
+    "static/js/main.eb904981.js"
+  ]
+}
